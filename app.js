@@ -409,8 +409,8 @@ $(document).ready(function () {
     cartPageBottomH4 = document.querySelector(".cart-page-bottom h4");
     let textTitle = "Merry Christmas!";
     let charArrTitle = textTitle.split('');
-let text = "Chúc bạn một mùa Giáng sinh an lành và ấm áp như một hàm đã được tối ưu. Mong rằng những ngày lễ của bạn tràn ngập niềm vui, giống như một vòng lặp vô hạn của hạnh phúc. Chúc cho mọi ước mơ của bạn sẽ được biên dịch thành hiện thực trong năm mới.\
-            Và đừng quên debug những muộn phiền để đón chào một năm mới thành công rực rỡ.🎄Merry Christmas && Happy New Year🎄!"
+let text = "Chúc chị một mùa Giáng sinh an lành và ấm áp. Mong rằng những ngày lễ của chị tràn ngập niềm vui, giống như một vòng lặp vô hạn của hạnh phúc. Chúc cho mọi ước mơ của chị sẽ được hiện thực trong năm mới.\
+            Và đừng quên debug những muộn phiền để đón chào một năm mới thành công rực rỡ.🎄Merry Christmas && Thân tặng🎄!"
 let charArrContent = text.split('');
 var currentIndexTitle = 0;
 var currentIndexContent = 0;
